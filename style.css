@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-image:linear-gradient(to right,#00B64F,#4671D5);
+    font-size: 35px;
+    padding: 15px;
+}
+
+header a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.name{
+    background-image: linear-gradient(to right,#007439,#180773);
+    color: whitesmoke;
+    margin-left: 150px;
+    width: 350px;
+}
+
+h1{
+    margin-left: 180px;
+    width: 280px;
+}
+
+footer{
+    background-image:linear-gradient(to right,#00B64F,#4671D5);
+    font-size: 35px;
+}
+
+.top{
+    background-image: linear-gradient(to right,#007439,#180773);
+    color: whitesmoke;
+    width: 100px;
+    position: relative;
+    left: 500px;
+    font-size: 25px;
+    padding: 8px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.pict{
+    margin-top: 45px;
+}
+
+.mine{
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+.name2{
+    background-image: linear-gradient(to right,#007439,#180773);
+    color: whitesmoke;
+    margin-left: 150px;
+    width: 180px;
+}   
+
+.silka a{
+    text-decoration: none;
+    color: #4671D5;
+    font-size: 20px;
+    border-bottom: 2px dashed #180773;
+}
